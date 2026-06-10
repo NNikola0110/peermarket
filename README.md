@@ -138,10 +138,3 @@ pause 40000
 stop
 ```
 
-## What is tracked in git
-
-- **Tracked:** all source under `src/`, `servent_list.properties`, and the
-  scripted `input/` files — everything needed to reproduce a run.
-- **Ignored:** compiled `out/`/`*.class`, IDE project files, and all
-  per-run artifacts (`output/`, `error/`, `done.txt`, `runner_*.txt`). See
-  [.gitignore](.gitignore).
