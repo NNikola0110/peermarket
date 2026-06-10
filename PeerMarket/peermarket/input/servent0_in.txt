@@ -1,0 +1,6 @@
+pause 48000
+list_item 5 Laptop 10
+pause 6000
+search Laptop
+pause 40000
+stop

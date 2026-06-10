@@ -1,0 +1,8 @@
+21:43:52 - Starting servent [152|localhost|1400]
+[SYS-NEIGHBORS] my_id:152 neighbors:28,196,240
+[SYS-NEIGHBORS] my_id:152 neighbors:28,108,196,240
+[MARKET-SEARCH-RESULT] item_id:5 name:"Laptop" qty:3 owner_id:108
+[SYS-NEIGHBORS] my_id:152 neighbors:28,108,240
+[SYS-NEIGHBORS] my_id:152 neighbors:108,240
+[SYS-NEIGHBORS] my_id:152 neighbors:108
+21:45:18 - Stopping gracefully...

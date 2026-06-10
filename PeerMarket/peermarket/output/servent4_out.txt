@@ -1,0 +1,6 @@
+21:43:58 - Starting servent [108|localhost|1500]
+[SYS-NEIGHBORS] my_id:108 neighbors:28,152,196,240
+[SYS-NEIGHBORS] my_id:108 neighbors:28,152,240
+[SYS-NEIGHBORS] my_id:108 neighbors:152,240
+[SYS-NEIGHBORS] my_id:108 neighbors:152
+21:45:28 - Stopping gracefully...

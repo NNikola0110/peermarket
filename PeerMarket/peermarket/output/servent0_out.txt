@@ -1,0 +1,10 @@
+21:43:34 - Starting servent [28|localhost|1100]
+21:43:34 - First node in the Chord system.
+[SYS-NEIGHBORS] my_id:28 neighbors:240
+[SYS-NEIGHBORS] my_id:28 neighbors:196,240
+[SYS-NEIGHBORS] my_id:28 neighbors:152,196,240
+[SYS-NEIGHBORS] my_id:28 neighbors:108,196,240
+[MARKET-LIST] item_id:5 name:"Laptop" qty:10
+[MARKET-SEARCH-RESULT] item_id:5 name:"Laptop" qty:10 owner_id:108
+21:45:08 - Stopping gracefully...
+[SYS-NEIGHBORS] my_id:28 neighbors:108,240

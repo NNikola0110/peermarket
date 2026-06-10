@@ -1,0 +1,64 @@
+# ──────────────────────────────────────────────
+# Compiled Java output
+# ──────────────────────────────────────────────
+*.class
+out/
+bin/
+build/
+target/
+
+# ──────────────────────────────────────────────
+# IDE / editor files
+# ──────────────────────────────────────────────
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/
+nbbuild/
+nbdist/
+
+# ──────────────────────────────────────────────
+# Runtime-generated artifacts (one per servent)
+# These are produced every time the system runs and
+# should NOT be tracked. The output/ and error/ folders
+# themselves are kept (via .gitkeep) because the runner
+# writes into them; only their contents are ignored.
+# The input/ files and servent_list.properties ARE kept.
+# ──────────────────────────────────────────────
+output/*
+error/*
+!output/.gitkeep
+!error/.gitkeep
+
+done.txt
+runner_out.txt
+runner_err.txt
+runnerin.txt
+
+# ──────────────────────────────────────────────
+# Logs & temp files
+# ──────────────────────────────────────────────
+*.log
+*.tmp
+*.bak
+*~
+
+# ──────────────────────────────────────────────
+# OS junk
+# ──────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini

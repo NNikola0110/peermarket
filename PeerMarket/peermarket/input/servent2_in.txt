@@ -1,0 +1,4 @@
+pause 50000
+buy 5 4
+pause 30000
+stop

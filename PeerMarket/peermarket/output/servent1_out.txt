@@ -1,0 +1,14 @@
+21:43:40 - Starting servent [240|localhost|1200]
+[SYS-NEIGHBORS] my_id:240 neighbors:28
+[SYS-NEIGHBORS] my_id:240 neighbors:28,196
+[SYS-NEIGHBORS] my_id:240 neighbors:28,152,196
+[SYS-NEIGHBORS] my_id:240 neighbors:28,108,152,196
+21:44:12 - Subscribed to seller on port 1100
+[MARKET-NOTIFICATION] node:28 posted item_id:5
+[MUTEX-REQUEST] item_id:5
+[MUTEX-ACQUIRED]
+[MARKET-BUY-SUCCESS] item_id:5 qty_bought:3 remaining_qty:3
+[MUTEX-RELEASED]
+[SYS-NEIGHBORS] my_id:240 neighbors:28,108,152
+[SYS-NEIGHBORS] my_id:240 neighbors:108,152
+21:45:12 - Stopping gracefully...

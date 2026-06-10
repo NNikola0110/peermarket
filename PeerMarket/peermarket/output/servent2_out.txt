@@ -1,0 +1,10 @@
+21:43:46 - Starting servent [196|localhost|1300]
+[SYS-NEIGHBORS] my_id:196 neighbors:28,240
+[SYS-NEIGHBORS] my_id:196 neighbors:28,152,240
+[SYS-NEIGHBORS] my_id:196 neighbors:28,108,152,240
+[MUTEX-REQUEST] item_id:5
+[MUTEX-ACQUIRED]
+[MARKET-BUY-SUCCESS] item_id:5 qty_bought:4 remaining_qty:6
+[MUTEX-RELEASED]
+21:45:08 - Stopping gracefully...
+[SYS-NEIGHBORS] my_id:196 neighbors:108,152,240

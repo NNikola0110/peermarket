@@ -1,0 +1,4 @@
+pause 56000
+search Laptop
+pause 30000
+stop
